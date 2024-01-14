@@ -1,7 +1,7 @@
 import * as React from "react"
 import Layout from '../components/layout'
 import '../components/style.scss'
-import home from '../images/PHOTO_ID_PORTFOLIO.png'
+import home from '../images/PHOTO_ID_PORTFOLIO.jpg'
 
 
 

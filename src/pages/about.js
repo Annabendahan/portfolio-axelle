@@ -18,12 +18,10 @@ const About = () => {
                             L’aviation est un milieu passionnant mais mon besoin de création m’a poussée à changer de direction. La réorientation n’est pas un exercice naturel, mais l’envie de faire un métier qui a un sens pour moi dans un milieu où je m'épanouie est plus fort.
                             <br/>
                             <br/>
-                            CV
-                            <br/>
-                            <br/>
-                            STAGE
-                            <br/>
-                            <br/>
+                    
+                            <h4>STAGE</h4>
+                       
+                            
                             KAIRN Alpin designers
                             <br/>
                             Avril - Août 2023 | GRENOBLE
@@ -38,9 +36,9 @@ const About = () => {
                             Maquettage/prototypage
                             <br/>
                             <br/>
-                            FORMATION
-                            <br/>
-                            <br/>
+                            <h4>FORMATION</h4>
+                         
+                           
                             BACHELOR Modelage 3D
                             <br/>
                             Septembre 2020 | STRATE | Sévres
@@ -61,7 +59,7 @@ const About = () => {
                 </div>
                 <div className="about__infos">
                     <div className="about__infos__c">
-                        <h3> QUALITÉS </h3>
+                        <h4> QUALITÉS </h4>
                         <p>Créativité <br/>
                         Capacité à fédérer <br/>
                         Polychronie <br/>
@@ -70,27 +68,28 @@ const About = () => {
                         </p>
                     </div>
 
-                    <div className="about__infos__c">
-                        <h3> COMPÉTENCES </h3>
+                    <div className="about__infos__a">
+                        <div className="about__infos__a__l1"> 
+                        <h4> COMPÉTENCES </h4>
                         <p>Anglais courant <br/>
                         Photographie<br/>
                         Suite Adobe<br/>
                         Rhino<br/>
-                       
                         </p>
-                    </div>
-
-                    <div className="about__infos__c">
-                        
+                        </div>
+                        <div className="about__infos__a__l2"> 
+                   <br/> 
                         <p> Alias<br/>
                         keyshot<br/>
                         Vred<br/>
                         twinmotion<br/>
                         Logiciel aéronautique
                         </p>
+                        </div>
                     </div>
 
                     <div className="about__infos__c">
+                    <h4> CONTACT </h4>
                         <p>
                         30 | Décembre | 1988<br/>
                         Paris, Annecy, France<br/>
