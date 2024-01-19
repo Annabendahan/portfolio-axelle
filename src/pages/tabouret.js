@@ -21,8 +21,8 @@ const Tabouret = () => {
                  <hr></hr>
                 </div>
                 <div className="project__sec__pictures">
+                <img src={t2} alt="main" />
                   <img src={t1} alt="main" />
-                  <img src={t2} alt="main" />
                   <img src={t3} alt="main" />
                 
                 </div>

@@ -1,6 +1,6 @@
 import * as React from "react"
 import Layout from '../components/layout'
-import ake from '../images/ake.png'
+import ake from '../images/PHOTO_ID_PORTFOLIO.jpg'
 
 
 const About = () => {

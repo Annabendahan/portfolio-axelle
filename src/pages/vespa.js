@@ -21,7 +21,7 @@ const Vespa = () => {
             <div className="project__sec">
                <div className="project__sec__text">
                 <h3>VESPA</h3>
-                <h5>Reconstruction sur rhino 3D du design d'un ancien élève pour impression,conception et prototypage.</h5>
+                <h5>Reconstruction sur rhino 3D du design d'un ancien élève pour impression, conception et prototypage.</h5>
                  <p>Dans ce projet j’ai pu aller au-delà de ce que j’avais exploré dans le projet du
 tabouret. La gestion de projet, ma capacité à mêler différents processus de fabrication et la conception ont été mises en avant. Cette version de Vespa reflète un travail abouti de maquettage allant de la mise en application des processus de fabrication
 jusqu’aux finitions peinture en passant par du thermoformage, du travail de la

@@ -24,7 +24,11 @@ const Projects = () => {
 
        <div className="projects__mob">
                 <h3> PROJETS</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                <p>Voici la compilation de mes différents projets. A travers ces réalisations, j'ai cherché à démontrer ma capacité à transformer des idées abstraites en projets concrets, mettant en œuvre mes compétences en modélisation 3D, rendu réaliste, création de maquettes et conception.
+Chaque projet a son histoire, son défi spécifique et son aboutissement visuel.
+Je suis ravi de partager avec vous cette sélection qui incarne ma vision artistique et mes compétences techniques.
+
+</p>
               </div>
               <hr></hr>
 
@@ -82,7 +86,9 @@ const Projects = () => {
               <div className="projects__sec__exp">
                 <h3> PROJETS</h3>
                 <br/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                <p>Voici la compilation de mes différents projets. A travers ces réalisations, j'ai cherché à démontrer ma capacité à transformer des idées abstraites en projets concrets, mettant en œuvre mes compétences en modélisation 3D, rendu réaliste, création de maquettes et conception.
+Chaque projet a son histoire, son défi spécifique et son aboutissement visuel.
+Je suis ravi de partager avec vous cette sélection qui incarne ma vision artistique et mes compétences techniques.</p>
                 <br/>
                 <hr></hr>
               </div>
