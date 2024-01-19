@@ -4,7 +4,8 @@
 module.exports = {
   siteMetadata: {
     title: `portfolio-axelle`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.yourdomain.tld`,
+    image: `/casque.png`,
   },
   plugins: ["gatsby-plugin-sass"]
 };

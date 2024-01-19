@@ -42,7 +42,7 @@ Je suis ravi de partager avec vous cette sélection qui incarne ma vision artist
                   </Link>
                   <Link to="/prothese" className="projects__sec__list__p1">
                       <img src={prothese} alt="main" />
-                      <h4>PROTHESE</h4>
+                      <h4>PROTHÈSE</h4>
                   </Link>
                 </div>
                 <div className="projects__sec__list__line">

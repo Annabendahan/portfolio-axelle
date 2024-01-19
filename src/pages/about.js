@@ -15,7 +15,7 @@ const About = () => {
                     <div className="about__sec__desc">
                         <p>
                             Passionnée d’image j’ai longtemps évolué dans un milieu strict.
-                            L’aviation est un milieu passionnant mais mon besoin de création m’a poussée à changer de direction. La réorientation n’est pas un exercice naturel, mais l’envie de faire un métier qui a un sens pour moi dans un milieu où je m'épanouie est plus fort.
+                            L’aviation est un milieu passionnant mais mon besoin de création m’a poussée à changer de direction. La réorientation n’est pas un exercice naturel, mais l’envie de faire un métier qui a un sens pour moi dans un milieu où je m'épanouis est plus forte.
                             <br/>
                             <br/>
                     

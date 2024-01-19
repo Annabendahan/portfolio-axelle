@@ -15,7 +15,7 @@ const Prothese = () => {
         <div className="project">
             <div className="project__sec">
                <div className="project__sec__text">
-                <h3>PROTHESE </h3>
+                <h3>PROTHÈSE </h3>
                 <h5>Rhino 3D, Keyshot et Photoshop.</h5>
                  <p>Je suis depuis longtemps intéressée par le secteur médical, notamment dans le domaine
 de l’accessibilité et de la mobilité individuelle. Le handicap me préoccupe beaucoup

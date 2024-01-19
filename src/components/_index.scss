@@ -27,6 +27,9 @@
         height: 100vh !important;
         margin-top: 30vh;
         @include breakpoint(s) {
+            img{
+                height: 100vh !important;
+            }
             text-align: center;
             margin:auto;
         }
