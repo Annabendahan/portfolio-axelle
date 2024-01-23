@@ -19,8 +19,8 @@ const Prothese = () => {
                 <h5>Rhino 3D, Keyshot et Photoshop.</h5>
                  <p>Je suis depuis longtemps intéressée par le secteur médical, notamment dans le domaine
 de l’accessibilité et de la mobilité individuelle. Le handicap me préoccupe beaucoup
-et j’aimerais, avec mon métier, pouvoir améliorer la vie et le quotidien des personnes
-porteuses de handicap. Passionnée de sport, j’aimerais de par mon métier pouvoir rendre
+et j’aimerais, grace à mon métier, pouvoir améliorer la vie et le quotidien des personnes
+porteuses de handicap. Passionnée de sport, j’aimerais aussi pouvoir rendre
 le sport outdoor accessible à tous.<br/><br/>
 
 </p>

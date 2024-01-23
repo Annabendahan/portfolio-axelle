@@ -15,23 +15,24 @@ const About = () => {
                     <div className="about__sec__desc">
                         <p>
                             Passionnée d’image j’ai longtemps évolué dans un milieu strict.
-                            L’aviation est un milieu passionnant mais mon besoin de création m’a poussée à changer de direction. La réorientation n’est pas un exercice naturel, mais l’envie de faire un métier qui a un sens pour moi dans un milieu où je m'épanouis est plus forte.
+                            L’aviation est un milieu passionnant mais mon besoin de création m’a poussée à changer de direction. La réorientation n’est pas un exercice naturel, mais l’envie d'exercer un métier qui a un sens pour moi dans un milieu où je m'épanouis est ma plus grande source de motivation et ma plus grande force.
+                            <br/>
                             <br/>
                             <br/>
                     
                             <h4>STAGE</h4>
                        
                             
-                            KAIRN Alpin designers
+                            <b>KAIRN Alpin designers</b>
                             <br/>
-                            Avril - Août 2023 | GRENOBLE
+                           <i> Avril - Août 2023 | GRENOBLE</i>
                             <br/>
                             Modeleur 3D/rendering.
                             <br/>
                             <br/>
-                            COPYWRIGHTE DESIGN
+                            <b>COPYWRIGHTE DESIGN</b>
                             <br/>
-                            Avril - juillet 2022 | PARIS
+                            <i>Avril - juillet 2022 | PARIS</i>
                             <br/>
                             Maquettage/prototypage
                             <br/>
@@ -39,22 +40,22 @@ const About = () => {
                             <h4>FORMATION</h4>
                          
                            
-                            BACHELOR Modelage 3D
+                            <b>BACHELOR Modelage 3D</b>
                             <br/>
-                            Septembre 2020 | STRATE | Sévres
+                            <i>Septembre 2020 | STRATE | Sévres</i>
                             <br/>
                             Modelage physique et numérique.
                             <br/>
                             Suivi de projet et suivi de réalisation: sketch modeling, convergence style technique, conception, réalisation, rendu.
                             <br/><br/>
-                            TITRE ENAC Technicien Aéronautique<br/>
-                            d’exploitation 2013 - 2015 | CFA des métiers de l’aérien | MASSY
+                            <b>TITRE ENAC Technicien Aéronautique d’exploitation</b><br/>
+                            <i> 2013 - 2015 | CFA des métiers de l’aérien | MASSY</i>
                             <br/><br/>
-                            BTS AUDIOVISUEL Option Image.
+                           <b> BTS AUDIOVISUEL Option Image.</b>
                             <br/>
-                            2007- 2009 | Lycée Henri-martin |
+                            <i>2007- 2009 | Lycée Henri-martin | SAINT-QUENTIN</i>
                             <br/>
-                            SAINT-QUENTIN</p>
+                            </p>
                     </div>
                 </div>
                 <div className="about__infos">
@@ -80,9 +81,9 @@ const About = () => {
                         <div className="about__infos__a__l2"> 
                    <br/> 
                         <p> Alias<br/>
-                        keyshot<br/>
+                        Keyshot<br/>
                         Vred<br/>
-                        twinmotion<br/>
+                        Twinmotion<br/>
                         Logiciel aéronautique
                         </p>
                         </div>

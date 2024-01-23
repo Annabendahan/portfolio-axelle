@@ -19,7 +19,7 @@ const Cebe = () => {
                <div className="project__sec__text">
                 <h3>CEBE</h3>
                 <h5>Keyshot, 3D envoyé par le client.</h5>
-                 <p>Pendant mon stage, j'ai dû réaliser un rendu pour CEBE. Je n'avais pas de contrainte particulière à part le modèle de la lunette. J'étais libre de faire ce que je voulais. J'ai fait différents styles pour pouvoir laisser le choix au client. 
+                 <p>Pendant mon stage, j'ai dû réaliser un rendu pour CEBE. Je n'avais pas de contrainte particulière à part le modèle de la lunette. J'étais libre de faire ce que je voulais. J'ai proposé différents styles pour pouvoir laisser le choix au client. 
 <br/><br/>
 
 </p>

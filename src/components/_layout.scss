@@ -239,9 +239,9 @@ h1 {
     margin-bottom: 1.45rem;
     color: inherit;
     font-family: "Poppins";
-    font-weight: 300;
+    font-weight: 500;
     text-rendering: optimizeLegibility;
-    font-size: 1rem;
+    font-size: 1.3rem;
     line-height: 1.1;
 }
 h2 {
@@ -294,7 +294,7 @@ h4 {
     line-height: 1.1;
     color: black;
     @include breakpoint(s) {
-        font-size: .8rem;
+        font-size: .9rem;
     }
 }
 h5 {
@@ -510,6 +510,7 @@ address {
 }
 b {
     font-weight: 800;
+    color: black;
 }
 strong {
     font-weight: 900;

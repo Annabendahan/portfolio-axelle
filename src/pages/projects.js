@@ -26,7 +26,7 @@ const Projects = () => {
                 <h3> PROJETS</h3>
                 <p>Voici la compilation de mes différents projets. A travers ces réalisations, j'ai cherché à démontrer ma capacité à transformer des idées abstraites en projets concrets, mettant en œuvre mes compétences en modélisation 3D, rendu réaliste, création de maquettes et conception.
 Chaque projet a son histoire, son défi spécifique et son aboutissement visuel.
-Je suis ravi de partager avec vous cette sélection qui incarne ma vision artistique et mes compétences techniques.
+Je suis ravie de partager avec vous cette sélection qui incarne ma vision artistique et mes compétences techniques.
 
 </p>
               </div>
@@ -88,7 +88,7 @@ Je suis ravi de partager avec vous cette sélection qui incarne ma vision artist
                 <br/>
                 <p>Voici la compilation de mes différents projets. A travers ces réalisations, j'ai cherché à démontrer ma capacité à transformer des idées abstraites en projets concrets, mettant en œuvre mes compétences en modélisation 3D, rendu réaliste, création de maquettes et conception.
 Chaque projet a son histoire, son défi spécifique et son aboutissement visuel.
-Je suis ravi de partager avec vous cette sélection qui incarne ma vision artistique et mes compétences techniques.</p>
+Je suis ravie de partager avec vous cette sélection qui incarne ma vision artistique et mes compétences techniques.</p>
                 <br/>
                 <hr></hr>
               </div>
