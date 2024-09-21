@@ -1,7 +1,7 @@
 import * as React from "react"
 import Layout from '../components/layout'
 import p1 from '../images/prothese/p1.jpg'
-import p2 from '../images/prothese/p2.png'
+import p4 from '../images/prothese/p4.mp4'
 import p3 from '../images/prothese/p3.jpg'
 
 import { Link } from 'gatsby';
@@ -28,7 +28,11 @@ le sport outdoor accessible à tous.<br/><br/>
                 </div>
                 <div className="project__sec__pictures">
                   <img src={p1} alt="main" />
-                  <img src={p2} alt="main" />
+                 <br/>
+                  <video autoPlay loop muted playsInline={true}>
+                            <source src={p4} crossOrigin="anonymous" type="video/mp4" />
+                        </video>
+                        <br/>
                   <img src={p3} alt="main" />
                 </div>
             </div>

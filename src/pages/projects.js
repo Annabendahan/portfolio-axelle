@@ -9,6 +9,7 @@ import luxe from '../images/luxe.png'
 import prothese from '../images/prothese.png'
 import cebe from '../images/cebe.png'
 import lego from '../images/lego.png'
+import tracer from '../images/tracer.png'
 
 
 
@@ -36,44 +37,48 @@ Je suis ravie de partager avec vous cette sélection qui incarne ma vision artis
 
               <div className="projects__sec__list">
                 <div className="projects__sec__list__line">
+                  <Link to="/kitsch" className="projects__sec__list__p1">
+                      <img src={tracer} alt="main" />
+                      <h4>LE KITSCH AU CINÉMA</h4>
+                  </Link>
                   <Link to="/casque" className="projects__sec__list__p1">
                       <img src={casque} alt="main" />
                       <h4>CASQUE</h4>
                   </Link>
-                  <Link to="/prothese" className="projects__sec__list__p1">
+                 
+                </div>
+                <div className="projects__sec__list__line">
+                <Link to="/prothese" className="projects__sec__list__p1">
                       <img src={prothese} alt="main" />
                       <h4>PROTHÈSE</h4>
                   </Link>
-                </div>
-                <div className="projects__sec__list__line">
                   <Link to="/luxe" className="projects__sec__list__p1">
                       <img src={luxe} alt="main" />
                       <h4>LUXE</h4>
                   </Link>
-                  <Link to="/cebe" className="projects__sec__list__p1">
+                 
+                </div>
+                <div className="projects__sec__list__line">
+                <Link to="/cebe" className="projects__sec__list__p1">
                       <img src={cebe} alt="main" />
                       <h4>CEBE </h4>
                   </Link>
-                </div>
-                <div className="projects__sec__list__line">
                   <Link to="/devialet" className="projects__sec__list__p1">
                       <img src={devialet} alt="main" />
                       <h4>DEVIALET </h4>
                   </Link>
-                  <Link to="/infographie" className="projects__sec__list__p1">
+                 
+                </div>
+                <div className="projects__sec__list__line">
+                <Link to="/infographie" className="projects__sec__list__p1">
                       <img src={info} alt="main" />
                       <h4>INFOGRAPHIE </h4>
                   </Link>
-                </div>
-                <div className="projects__sec__list__line">
                   <Link to="/lego" className="projects__sec__list__p1">
                       <img src={lego} alt="main" />
                       <h4>LEGO </h4>
                   </Link>
-                  <Link to="/tabouret" className="projects__sec__list__p1">
-                      <img src={tabouret} alt="main" />
-                      <h4>TABOURET </h4>
-                  </Link>
+                 
                 </div>
                 <div className="projects__sec__list__line">
                   <Link to="/vespa" className="projects__sec__list__p2">

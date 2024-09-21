@@ -21,6 +21,13 @@ const About = () => {
                             <br/>
                     
                             <h4>STAGE</h4>
+
+                            <b>SALOMON</b>
+                            <br/>
+                           <i> Juin - Novembre 2024 | ANNECY</i>
+                            <br/>
+                            Modeleur 3D
+                            <br/> <br/>
                        
                             
                             <b>KAIRN Alpin designers</b>
