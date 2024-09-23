@@ -1,7 +1,10 @@
 import * as React from "react"
 import Layout from '../components/layout'
+import '../components/style.scss'
+
 import i1 from '../images/infographie/i1.jpg'
 import i2 from '../images/infographie/i2.jpg'
+
 
 import { Link } from 'gatsby';
 

@@ -1,5 +1,6 @@
 import * as React from "react"
 import Layout from '../components/layout'
+import '../components/style.scss'
 import d1 from '../images/devialet/d1.jpg'
 
 import { Link } from 'gatsby';

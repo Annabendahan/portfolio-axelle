@@ -1,5 +1,6 @@
 import * as React from "react"
 import Layout from '../components/layout'
+import '../components/style.scss'
 import l1 from '../images/luxe/l1.jpg'
 import l2 from '../images/luxe/l2.png'
 import l3 from '../images/luxe/l3.jpg'

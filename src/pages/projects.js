@@ -1,7 +1,7 @@
 import * as React from "react"
 import Layout from '../components/layout'
+import '../components/style.scss'
 import casque from '../images/casque.png'
-import tabouret from '../images/tabouret.png'
 import vespa from '../images/vespa.png'
 import devialet from '../images/devialet.png'
 import info from '../images/info.png'

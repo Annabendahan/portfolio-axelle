@@ -1,5 +1,6 @@
 import * as React from "react"
 import Layout from '../components/layout'
+import '../components/style.scss'
 import t1 from '../images/tracer/t1.png'
 import t2 from '../images/tracer/t2.mp4'
 import t3 from '../images/tracer/t3.mp4'
@@ -7,6 +8,7 @@ import t4 from '../images/tracer/t4.mp4'
 import t5 from '../images/tracer/t5.jpg'
 import t6 from '../images/tracer/t6.jpg'
 import t8 from '../images/tracer/t8.jpg'
+
 
 
 
