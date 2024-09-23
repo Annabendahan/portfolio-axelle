@@ -7,6 +7,7 @@ import t3 from '../images/tracer/t3.mp4'
 import t4 from '../images/tracer/t4.mp4'
 import t5 from '../images/tracer/t5.jpg'
 import t6 from '../images/tracer/t6.jpg'
+import t7 from '../images/tracer/t7.mp4'
 import t8 from '../images/tracer/t8.jpg'
 
 
@@ -62,6 +63,12 @@ const Vespa = () => {
                     <img src={t5} alt="main" />
                     <img src={t6} alt="main" />
                   </div>
+                  <br/>
+                    <div className="project__sec__pictures__line">
+                        <video autoPlay loop muted playsInline={true}>
+                            <source src={t7} crossOrigin="anonymous" type="video/mp4" />
+                        </video>
+                    </div>
                   
                     
                     <br/>
