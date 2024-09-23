@@ -40,6 +40,9 @@ const Vespa = () => {
 <hr></hr>
                 </div>
                 <div className="project__sec__pictures">
+                <div className="project__sec__pictures__line">
+                    <img src={t8} alt="main" />
+                  </div>
                   <img src={t1} alt="main" />
                     <div className="project__sec__pictures__line">
                         <video autoPlay loop muted playsInline={true}>
@@ -65,17 +68,14 @@ const Vespa = () => {
                   </div>
                   <br/>
                     <div className="project__sec__pictures__line">
-                        <video autoPlay loop muted playsInline={true}>
+                        <video loop controls playsInline={true}>
                             <source src={t7} crossOrigin="anonymous" type="video/mp4" />
                         </video>
                     </div>
                   
                     
                     <br/>
-                    <div className="project__sec__pictures__line">
-                    <img src={t8} alt="main" />
-                  
-                  </div>
+                    
                 
              
                 </div>
