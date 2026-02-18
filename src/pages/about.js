@@ -20,8 +20,24 @@ const About = () => {
                             <br/>
                             <br/>
                             <br/>
+
+                            <h4>EXPÉRIENCES</h4>
+                              <b>LEGRAND</b>
+                               <br/>
+                           <i> Depuis juin 2025 | LIMOGES</i>
+                            <br/>
+                            Modeleur 3D / Rendering
+                            <br/> <br/>
+                            <b>ARKK LCO</b>
+                               <br/>
+                           <i> Février 2025 | ANNECY</i>
+                            <br/>
+                            Maquettiste
+                            <br/> <br/>
+                       
+                       
                     
-                            <h4>STAGE</h4>
+                            <h4>STAGES</h4>
 
                             <b>SALOMON</b>
                             <br/>
@@ -35,14 +51,14 @@ const About = () => {
                             <br/>
                            <i> Avril - Août 2023 | GRENOBLE</i>
                             <br/>
-                            Modeleur 3D/rendering.
+                            Modeleur 3D / Rendering.
                             <br/>
                             <br/>
                             <b>COPYWRIGHTE DESIGN</b>
                             <br/>
                             <i>Avril - juillet 2022 | PARIS</i>
                             <br/>
-                            Maquettage/prototypage
+                            Maquettage / Prototypage
                             <br/>
                             <br/>
                             <h4>FORMATION</h4>
@@ -84,6 +100,8 @@ const About = () => {
                         Photographie<br/>
                         Suite Adobe<br/>
                         Rhino<br/>
+                        Catia v5<br/>
+                        Cinéma 4D / Octane <br/>
                         </p>
                         </div>
                         <div className="about__infos__a__l2"> 
@@ -101,7 +119,7 @@ const About = () => {
                     <h4> CONTACT </h4>
                         <p>
                         30 | Décembre | 1988<br/>
-                        Paris, Annecy, France<br/>
+                        France<br/>
                         a.bendahan@strate.design<br/>
                         +33.6 59 85 52 07
                         </p>
